@@ -1,7 +1,21 @@
-/.prettierrc
-/dist
-/node_modules
-/package-lock.json
-/package.json
-/start.sh
-/tsconfig.json
+# Dependencies
+node_modules/
+
+# Environment variables
+.env
+
+# Build output
+dist/
+_td_database/
+_td_files/
+
+# IDE
+.vscode/
+.idea/
+
+# Logs
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
