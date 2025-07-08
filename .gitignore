@@ -1,0 +1,7 @@
+/.prettierrc
+/dist
+/node_modules
+/package-lock.json
+/package.json
+/start.sh
+/tsconfig.json
